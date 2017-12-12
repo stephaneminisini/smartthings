@@ -1,0 +1,139 @@
+﻿{
+  "port": 8181,
+  "authCode": "secret-key",
+
+  "envisalink": {
+    "address": "192.168.1.244",
+    "port": "4025",
+    "password": "user",
+    "securityCode": "1234",
+    "dumpZoneTimer": "5",
+
+    "panelConfig": {
+      "type": "manual",
+      "partitions": [
+        {
+          "partition": 1,
+          "name": "Home Panel"
+        }
+      ],
+      "zones": [
+        {
+          "zone": 1,
+          "type": "contact",
+          "name": "Garage and Entrance Door"
+        },
+        {
+          "zone": 2,
+          "type": "motion",
+          "name": "Entrance"
+        },
+        {
+          "zone": 3,
+          "type": "contact",
+          "name": "Back Door"
+        },
+        {
+          "zone": 4,
+          "type": "contact",
+          "name": "Kitchen Door"
+        },
+        {
+          "zone": 5,
+          "type": "contact",
+          "name": "Bedrooms Windows"
+        },
+        {
+          "zone": 6,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 7,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 8,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 9,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 10,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 11,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 12,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 13,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 14,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 15,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 16,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 17,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 18,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 19,
+          "type": "contact",
+          "name": "French Doors Lounge"
+        },
+        {
+          "zone": 20,
+          "type": "contact",
+          "name": "TO Find"
+        },
+        {
+          "zone": 21,
+          "type": "contact",
+          "name": "Downstairs Study Doors"
+        }
+      ]
+    }
+  },
+
+  "tivo": {
+    "address": "192.168.1.145",
+    "port": "31339"
+  },
+
+  "notify": {
+    "address": "192.168.1.241",
+    "port": "39500"
+  }
+}

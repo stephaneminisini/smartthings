@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>1c504b47-5d11-47eb-98dd-512cc871667b</TargetProject>
+    <FriendlyName>smartthings</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>

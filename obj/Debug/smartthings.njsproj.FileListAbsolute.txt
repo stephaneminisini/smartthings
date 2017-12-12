@@ -1,0 +1,2 @@
+C:\Drive\CodeRepo\smartthings\obj\Debug\smartthings.njsprojResolveAssemblyReference.cache
+C:\Drive\CodeRepo\smartthings\bin\Microsoft.NodejsTools.WebRole.dll
